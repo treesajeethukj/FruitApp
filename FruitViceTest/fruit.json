@@ -1,0 +1,82 @@
+[
+  {
+    "name": "ALPHONSA",
+    "fruitFamily": "Rutaceae",
+    "genus": "ABC",
+    "order": "XYZ",
+    "Id": 1,
+    "nutritions": {
+      "IdNutritions": 1,
+      "IdFruit": 1,
+      "carbohydrates": 23,
+      "protein": 4,
+      "fat": 12,
+      "calories": 59,
+      "sugar": 13
+    }
+  },
+  {
+    "name": "robusta",
+    "fruitFamily": "Rutaceae",
+    "genus": "dfdf",
+    "order": "xdvxdv",
+    "Id": 2,
+    "nutritions": {
+      "IdNutritions": 2,
+      "IdFruit": 2,
+      "carbohydrates": 123,
+      "protein": 44,
+      "fat": 19,
+      "calories": 159,
+      "sugar": 65
+    }
+  },
+  {
+    "name": "strawberry",
+    "fruitFamily": "Rutaceae",
+    "genus": "CBFGH",
+    "order": "VNVGN",
+    "Id": 3,
+    "nutritions": {
+      "IdNutritions": 3,
+      "IdFruit": 3,
+      "carbohydrates": 23,
+      "protein": 4,
+      "fat": 9,
+      "calories": 9,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "BLUEBERRY",
+    "fruitFamily": "Rutaceae",
+    "genus": "CBFGH",
+    "order": "VNVGN",
+    "Id": 4,
+    "nutritions": {
+      "IdNutritions": 4,
+      "IdFruit": 4,
+      "carbohydrates": 3,
+      "protein": 3,
+      "fat": 2,
+      "calories": 20,
+      "sugar": 5
+    }
+  },
+  {
+    "name": "APPLE",
+    "fruitFamily": "APPLE",
+    "genus": "GVHVGJ",
+    "order": "VGJGK",
+    "Id": 5,
+    "nutritions": {
+      "IdNutritions": 5,
+      "IdFruit": 5,
+      "carbohydrates": 78,
+      "protein": 35,
+      "fat": 3,
+      "calories": 80,
+      "sugar": 15
+    }
+  }
+]
